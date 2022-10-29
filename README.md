@@ -24,8 +24,8 @@
 
 <h3 align="left">Stat:</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SilverGamesStudio&show_icons=true&theme=dark) 
-<img alt="SilverGamesStudio" src="https://github-readme-streak-stats.herokuapp.com/?user=SilverGamesStudio&theme=black-ice&hide_border=1px_solid_white&stroke=0001&background=060A0CD0"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SilverGame25&show_icons=true&theme=dark) 
+<img alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=SilverGamesStudio&theme=black-ice&hide_border=1px_solid_white&stroke=0001&background=060A0CD0"/>
 
 <h3 align="left">Stat Language:</h3>
-<img alt="SilverGamesStudio Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilverGamesStudio&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
+<img alt="SilverGame25 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilverGame25&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
