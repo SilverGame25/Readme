@@ -1,4 +1,4 @@
-<img src="https://profile-counter.glitch.me/Predator-of-the-code/count.svg" alt="vistor count" height="30" align="right"/>
+<img src="https://profile-counter.glitch.me/SilverGamesStudio/count.svg" alt="vistor count" height="30" align="right"/>
 <br>
 <h1 align="center">SG Studio | Silver Games Studio</h1>
 <h3 align="center">Studio Developer Gaming - web</h3>
